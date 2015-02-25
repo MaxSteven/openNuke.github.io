@@ -2,8 +2,6 @@
 layout: post
 title: HorizonTool.nk
 published: true
----
-
 "type": "nodes",
 "category": "Other",
 "label": "Horizon Line",
@@ -15,6 +13,7 @@ published: true
 "documentation": "http://www.nukepedia.com/gizmos/other/perspective-guide-110",
 "licence": "https://github.com/openNuke/toolkit/blob/master/LICENCE",
 "source": "http://www.nukepedia.com/gizmos/other/perspective-guide-110",
+---
 
 
 
