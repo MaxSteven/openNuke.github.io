@@ -15,7 +15,7 @@ tags: node graph
 - "status": "stable"
 - "source": "v1.1 [http://www.nukepedia.com/python/nodegraph/pasteToSelected/](http://www.nukepedia.com/python/nodegraph/pasteToSelected/) "
 - "fork changes": ""
-- "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
+- "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE](https://github.com/openNuke/toolset/blob/master/LICENCE)"
 
 ### Instructions
 Please request someone to contribute instructions in comments below.
