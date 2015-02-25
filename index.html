@@ -19,7 +19,7 @@ Copy and paste into Nuke  Script Editor and click run:
 urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadTools.py").read()</pre>
 <hr>
 <section id="archive">
-<h3>This year's posts</h3>
+  <h3>Post Archive:</h3>
 {%for post in site.posts %}
 {% unless post.next %}
 <ul class="this">
@@ -32,10 +32,11 @@ urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadT
 <ul class="past">
 {% endif %}
 {% endunless %}
-<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ page.category }} | {{ page.tags }} | {{ page.title }} </a></li>
 {% endfor %}
 </ul>
 </section> 
+  <hr>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
