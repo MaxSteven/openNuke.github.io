@@ -14,9 +14,13 @@ published: true
 <li>There is a loader UI that loads all the tools inside nuke from this web repository or from local disk.</li>
 
   <h2>instructions for loading toolset inside nuke</h2>
+  
 Copy and paste into Nuke  Script Editor and click run:
+<div class="boxed">
 <pre>import urllib; exec
 urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadTools.py").read()</pre>
+</div> 
+
 <hr>
 <section id="archive">
   <h3>Post Archive:</h3>
@@ -32,7 +36,7 @@ urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadT
 <ul class="past">
 {% endif %}
 {% endunless %}
-<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ page.category }} | {{ page.tags }} | {{ page.title }} </a></li>
+<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ page.category }}  {{ page.tags }}  {{ page.title }} </a></li>
 {% endfor %}
 </ul>
 </section> 
