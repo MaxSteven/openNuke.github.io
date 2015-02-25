@@ -4,13 +4,7 @@ published: false
 
 ##HorizonLine.nk
 
----
-layout: post
-title: Blogging Like a Hacker
-published: True
-categories: nodes
-tags: other
----
+
 
 layout: post
 title: HorizonLine.nk
