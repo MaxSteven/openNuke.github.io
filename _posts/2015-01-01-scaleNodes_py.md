@@ -7,15 +7,14 @@ tags: nodeGraph
 ---
 
 ###Intro
-- 
+- Contract and expand node connections, including backdrops.
 
-### History
-- "originalAuthor": ""
-- "dateCreated": ""
+### Details
+- "originalAuthor": "Frank Rueter"
+- "dateCreated": "06/02/2012"
 - "status": "stable"
-- "source": ""
-- "fork changes": ""
-- "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
+- "source": "[http://www.nukepedia.com/python/nodegraph/scalenodes/](http://www.nukepedia.com/python/nodegraph/scalenodes/)"
+- "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE](https://github.com/openNuke/toolset/blob/master/LICENCE)"
 
 ### Instructions
 Please request someone to contribute instructions in comments below.
