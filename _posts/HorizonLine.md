@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HorizonTool.nk
+title: HorizonLine.nk
 published: true
 "type": "nodes",
 "category": "Other",
