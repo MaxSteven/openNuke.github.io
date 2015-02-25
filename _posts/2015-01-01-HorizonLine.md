@@ -14,6 +14,7 @@ tags: other
 - "dateCreated": "7/10/2010",
 - "status": "stable",
 - "last changes": "Rafal Kaniewski - Horizon Line added with rotation and reset button. Renamed to HorizonLine"
-"source": "http://www.nukepedia.com/gizmos/other/perspective-guide-110"
+- "source": "http://www.nukepedia.com/gizmos/other/perspective-guide-110"
 ### Instructions
+Please request someone to contribute instructions in comments below.
 
