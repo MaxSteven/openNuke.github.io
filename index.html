@@ -14,12 +14,23 @@ published: true
 <li>There is a loader UI that loads all the tools inside nuke from this web repository or from local disk.</li>
 
   <h2>instructions for loading toolset inside nuke</h2>
-  
+ <div class="boxed">
+  This text is enclosed in a box.
+ 
 Copy and paste into Nuke  Script Editor and click run:<br>
-<span style="background-color: #E6E6E6">
-<code>import urllib; exec
+<style>
+p {
+    border:1px solid grey;
+    padding:10px;
+    margin:30px;
+}
+</style>
+</head>
+<body>
+
+<p><code>import urllib; exec
 urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadTools.py").read()
-</code></span>
+</code></p>
 <hr>
 <section id="archive">
   <h3>Post Archive:</h3>
