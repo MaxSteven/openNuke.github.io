@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: HorizonLine Node
 published: true
 category: nodes
 tags: other
