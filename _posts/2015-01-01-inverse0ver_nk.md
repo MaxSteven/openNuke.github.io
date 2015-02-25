@@ -10,7 +10,7 @@ tags: keying
 - This is not a keyer, its is a a different way of using an over and the reverse of an over (the InverseOver) together to maintain fine transparent detail from a key(matte).
 
 ### History
-- "originalAuthor": "Rafal Kaniewski: The idea of using this for keying goes to Thomas Dyn"
+- "originalAuthor": "Rafal Kaniewski: The original idea goes to Thomas Dyn"
 - "dateCreated": "24/06/14"
 - "status": "stable"
 - "source": "https://github.com/vfxwiki/Inverse0ver.nk"
