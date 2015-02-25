@@ -7,7 +7,7 @@ tags: keying
 ---
 
 ###Intro
-- This is not a keyer, its is a a different way of using an over \nand the reverse of an over (the InverseOver) together to\nmaintain fine transparent detail from a key(matte).\n\n1) plug in plate despill.\n2) plug in a very thin matte i.e. an unscale'd color difference or keylight matte. \n3) plug in the bg into the InverseOver.\n4) split the out of the InverseOKeyer into the inverseOver and a premult node.\n5) over the premult and the InverseOver.\n6) follow the instructions on the main tab."
+- This is not a keyer, its is a a different way of using an over and the reverse of an over (the InverseOver) together to maintain fine transparent detail from a key(matte).
 
 ### History
 - "originalAuthor": "Rafal Kaniewski: The idea of using this for keying goes to Thomas Dyn"
@@ -18,3 +18,10 @@ tags: keying
 
 ### Instructions
 Ask questions and give feedback in comments below.
+
+1) plug in plate despill.
+2) plug in a very thin matte i.e. an unscale'd color difference or keylight matte. 
+3) plug in the bg into the InverseOver.
+4) split the out of the InverseOKeyer into the inverseOver and a premult node.
+5) over the premult and the InverseOver.
+6) follow the instructions on the main tab.
