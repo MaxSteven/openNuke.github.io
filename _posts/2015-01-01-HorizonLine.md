@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HorizonLine Node
+title: HorizonLine
 published: true
 category: nodes
 tags: other
@@ -19,4 +19,3 @@ tags: other
 
 ### Instructions
 Please request someone to contribute instructions in comments below.
-
