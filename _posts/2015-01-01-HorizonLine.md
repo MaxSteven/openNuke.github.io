@@ -1,12 +1,11 @@
-##HorizonLine.nk
 ---
 layout: post
 title: Blogging Like a Hacker
 published: true
-categories: nodes
+category: nodes
 tags: other
 ---
-
+##HorizonLine.nk
 
 layout: post
 title: HorizonLine.nk
