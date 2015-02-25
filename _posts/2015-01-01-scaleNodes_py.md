@@ -17,4 +17,4 @@ tags: nodeGraph
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE](https://github.com/openNuke/toolset/blob/master/LICENCE)"
 
 ### Instructions
-Please request someone to contribute instructions in comments below.
+Ask questions and give feedback in comments below.
