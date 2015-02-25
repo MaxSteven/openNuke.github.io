@@ -3,18 +3,15 @@ layout: post
 title: Keychew.nk
 published: true
 category: nodes
-tags: 
+tags: keying
 ---
 
 ###Intro
-- 
+- Dilates and erodes a matte
 
 ### History
-- "originalAuthor": ""
-- "dateCreated": ""
-- "status": "stable"
-- "source": ""
-- "fork changes": ""
+- licence": "https://github.com/openNuke/toolkit/blob/master/LICENCE",
 
 ### Instructions
 Please request someone to contribute instructions in comments below.
+
