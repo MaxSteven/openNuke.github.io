@@ -3,22 +3,21 @@ layout: default
 published: true
 ---
 
-openNuke Toolkit
-===========
-- This is a repository of nuke tools collected from the internet that have an open commercial licence. (many are from Nukepedia)
-- Code must include : author name; dateCreated; source link; licence link.
-- All nodes/code has no dependencies outside this toolkit folder. So when a script is opened in nuke in a different enviroment it will still work. (i.e. on a different machienes or the farm)
-- All code has been checked for bad channels, malicious intent and privacy invasion. 
-- There is a loader UI that loads all the tools inside nuke from this web repository or from local disk.
+<h2>openNuke Toolkit Docs</h2>
 
-instructions for loading inside nuke
-===========
+<ul>
+  <li>The openNuke Toolkit is a collection of common tools for Nuke. - It is indended for freelancers working at vendors that dont have theses normal extra tools.</li>
+<li>This is a repository of nuke tools collected from the internet that have an open commercial licence. (many are from Nukepedia)</li>
+<li>Code must include : author name; dateCreated; source link; licence link.</li>
+<li>All nodes/code has no dependencies outside this toolkit folder. So when a script is opened in nuke in a different enviroment it will still work. (i.e. on a different machienes or the farm)</li>
+<li>All code has been checked for bad channels, malicious intent and privacy invasion. </li>
+<li>There is a loader UI that loads all the tools inside nuke from this web repository or from local disk.</li>
+
+<h2>instructions for loading inside nuke<h2>
 Copy and paste into Nuke  Script Editor and click run:
-
-import urllib; exec
-urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadTools.py").read()
-===========
-
+<pre>import urllib; exec
+urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadTools.py").read()</pre>
+<hr>
 <section id="archive">
 <h3>This year's posts</h3>
 {%for post in site.posts %}
