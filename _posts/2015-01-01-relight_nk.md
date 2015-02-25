@@ -13,7 +13,7 @@ tags: 2.5D
 - "originalAuthor": "Michael Garrett"
 - "dateCreated": "23/10/2010"
 - "status": "stable"
-- "source": "[http://www.nukepedia.com/gizmos/other/relight/](www.nukepedia.com/gizmos/other/relight/)"
+- "source": "[http://www.nukepedia.com/gizmos/other/relight/](http://www.nukepedia.com/gizmos/other/relight/)"
 - "last changes": ""
 - "licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE](https://github.com/openNuke/toolset/blob/master/LICENCE)",
 
