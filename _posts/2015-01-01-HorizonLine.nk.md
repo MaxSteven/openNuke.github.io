@@ -1,4 +1,17 @@
 ---
+published: false
+---
+
+##HorizonLine.nk
+
+---
+layout: post
+title: Blogging Like a Hacker
+published: true
+categories: nodes
+tags: other
+---
+
 layout: post
 title: HorizonLine.nk
 published: true
@@ -13,7 +26,7 @@ published: true
 "documentation": "http://www.nukepedia.com/gizmos/other/perspective-guide-110",
 "licence": "https://github.com/openNuke/toolkit/blob/master/LICENCE",
 "source": "http://www.nukepedia.com/gizmos/other/perspective-guide-110",
----
+
 
 
 
