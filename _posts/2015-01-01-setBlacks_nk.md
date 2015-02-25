@@ -9,7 +9,7 @@ tags: colour
 ###Intro
 - Sets base black wih roll off. Use the colour picker of darkest area of source and destination images
 
-### History
+### Details
 - "originalAuthor": ""
 - "dateCreated": "01/01/2015"
 - "status": "stable"
