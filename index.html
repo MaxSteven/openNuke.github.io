@@ -37,7 +37,7 @@ urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadT
 <ul class="past">
 {% endif %}
 {% endunless %}
-  <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }} :({{ post.category } {{ post.tags }}) </a></li>
+  <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }} :({{ post.category }} {{ post.tags }}) </a></li>
 {% endfor %}
 </ul>
 </section> 
