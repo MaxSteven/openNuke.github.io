@@ -13,9 +13,9 @@ tags: colour
 - "originalAuthor": ""
 - "dateCreated": "01/01/2015"
 - "status": "stable"
-- "source": "[https://github.com/openNuke/toolset/blob/master/uvTile.nk]"
+- "source": "[https://github.com/openNuke/toolset/blob/master/uvTile.nk](https://github.com/openNuke/toolset/blob/master/uvTile.nk)"
 - "last changes": ""
-- "licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
+- "licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE](https://github.com/openNuke/toolset/blob/master/LICENCE)"
 
 ### Instructions
 Please request someone to contribute instructions in comments below.
