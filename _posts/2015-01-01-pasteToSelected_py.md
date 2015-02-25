@@ -2,18 +2,18 @@
 layout: post
 title: pasteToSelected.py
 published: true
-category: python node graph
-tags: 
+category: python
+tags: node graph
 ---
 
 ###Intro
-- 
+- Paste node or nodes copied in the clipboard to all selected nodes, multiplying a paste.
 
-### History
-- "originalAuthor": ""
-- "dateCreated": ""
+### Details
+- "originalAuthor": "Frank Rueter"
+- "dateCreated": "19/02/2012"
 - "status": "stable"
-- "source": ""
+- "source": "v1.1 [http://www.nukepedia.com/python/nodegraph/pasteToSelected/](http://www.nukepedia.com/python/nodegraph/pasteToSelected/) "
 - "fork changes": ""
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
