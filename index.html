@@ -19,6 +19,7 @@ Copy and paste into Nuke  Script Editor and click run:
   <style>
     .boxed {
   border: 1px solid black ;
+      height: 60%;
 } 
   </style>
 <div class="boxed">
@@ -41,7 +42,7 @@ urllib.urlopen("https://raw.githubusercontent.com/openNuke/toolset/master/_loadT
 <ul class="past">
 {% endif %}
 {% endunless %}
-<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ page.title }} </a></li>
+<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.category }} | {{ post.tags }} | {{ post.title }} </a></li>
 {% endfor %}
 </ul>
 </section> 
