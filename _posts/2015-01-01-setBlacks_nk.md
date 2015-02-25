@@ -3,18 +3,19 @@ layout: post
 title: SetBlacks.nk
 published: true
 category: nodes
-tags: 
+tags: colour
 ---
 
 ###Intro
-- 
+- Sets base black wih roll off. Use the colour picker of darkest area of source and destination images
 
 ### History
 - "originalAuthor": ""
-- "dateCreated": ""
+- "dateCreated": "01/01/2015"
 - "status": "stable"
-- "source": "[http://www.nukepedia.com/gizmos/other/perspective-guide-110]"
+- "source": "[https://github.com/openNuke/toolset/blob/master/uvTile.nk]"
 - "last changes": ""
+- "licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
 ### Instructions
 Please request someone to contribute instructions in comments below.
