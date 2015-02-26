@@ -7,15 +7,14 @@ tags: root defaults
 ---
 
 ###Intro
-- 
+- Camera format Presets with filmback of various sensors
 
-### History
-- "originalAuthor": ""
-- "dateCreated": ""
+### Details
+- "originalAuthor": "Deke Kincaid"
+- "dateCreated": "10/16/12"
 - "status": "stable"
-- "source": ""
-- "fork changes": ""
+- "source": "v1.4 https://github.com/dekekincaid/nuke.env/blob/master/python/cam_presets.py"
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
 ### Instructions
-Please request someone to contribute instructions in comments below.
+[http://www.nukepedia.com/presets/camera-film-back-presets]
