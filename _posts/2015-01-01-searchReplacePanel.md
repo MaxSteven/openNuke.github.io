@@ -13,7 +13,7 @@ tags: pane
 - "originalAuthor": "Frank Rueter"
 - "dateCreated": "14/03/2012"
 - "status": "stable"
-- "source": "1.2 http://www.nukepedia.com/python/ui/searchreplacepanel"
+- "source": "1.2 ][http://www.nukepedia.com/python/ui/searchreplacepanel]"
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
 ### Instructions
