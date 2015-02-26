@@ -7,7 +7,7 @@ tags: 2.5D
 ---
 
 ###Intro
-- 
+- card3D alternative (realtime), but has stabalize, matchmove, project, and concatination & roto control passthrough like a cornerPin node
 
 ### Details
 - "originalAuthor": "Rafal Kaniewski"
