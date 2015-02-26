@@ -2,20 +2,21 @@
 layout: post
 title: AlignNodes.py
 published: true
-category: python pane
-tags: 
+category: python
+tags: nodeGraph
 ---
 
 ###Intro
-- 
+- Align a bunch of Nodes either horizontally or vertically in the DAG
 
 ### History
-- "originalAuthor": ""
-- "dateCreated": ""
+- "originalAuthor": "Frank Rueter"
+- "dateCreated": "6/04/2010"
 - "status": "stable"
-- "source": ""
-- "fork changes": ""
+- "source": "v1.1 http://www.nukepedia.com/python/nodegraph/alignnodes/"
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
 ### Instructions
-Please request someone to contribute instructions in comments below.
+[http://www.nukepedia.com/python/nodegraph/alignnodes/]
+
+
