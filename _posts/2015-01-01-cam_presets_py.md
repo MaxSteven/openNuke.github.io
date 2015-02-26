@@ -2,8 +2,8 @@
 layout: post
 title: cam_presets.py
 published: true
-category: python setup
-tags: root defaults
+category: python
+tags: defaults
 ---
 
 ###Intro
