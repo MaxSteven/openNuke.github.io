@@ -1,20 +1,19 @@
 ---
 layout: post
-title: CornerPin3D.nk
+title: CornerPin3.nk
 published: true
 category: nodes
-tags: 
+tags: 2.5D
 ---
 
 ###Intro
 - 
 
-### History
-- "originalAuthor": ""
-- "dateCreated": ""
+### Details
+- "originalAuthor": "Rafal Kaniewski"
+- "dateCreated": "01/01/2015"
 - "status": "stable"
-- "source": ""
-- "fork changes": ""
+- "source": "https://github.com/openNuke/"
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
 ### Instructions
