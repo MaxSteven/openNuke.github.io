@@ -12,7 +12,7 @@ tags: 2.5D
 ### Details
 - "originalAuthor": "Rafal Kaniewski"
 - "dateCreated": "01/01/2015"
-- "status": "stable"
+- "status": "beta"
 - "source": "https://github.com/cardPlane/"
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
