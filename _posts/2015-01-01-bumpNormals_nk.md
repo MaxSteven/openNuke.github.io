@@ -14,7 +14,6 @@ tags: 2.5D
 - "dateCreated": "15/06/2010"
 - "status": "stable"
 - "source": "v1.0 http://www.nukepedia.com/gizmos/other/bumpnormals"
-- "fork changes": ""
 - "Licence": "[https://github.com/openNuke/toolset/blob/master/LICENCE]"
 
 ### Instructions
