@@ -1,0 +1,20 @@
+{
+"type": "python",
+"category": "Node Graph Layout",
+"file": "alignNodes.py",
+"tooltip": "Align a bunch of Nodes either horizontally in the Node Graph",
+"originalAuthor": "Frank Rueter",
+"dateCreated": "16/04/201",
+"status": "stable",
+"documentation": "http://opennuke.github.io/alignNodes/",
+"licence": "https://github.com/openNuke/toolkit/blob/master/LICENCE",
+"source": "v1.1 http://www.nukepedia.com/python/nodegraph/alignnodes/",
+"call": [
+"alignNodes( nuke.selectedNodes(), direction='x' )",
+"alignNodes( nuke.selectedNodes(), direction='y' )"
+],
+"label": [
+"Align Nodes x",
+"Align Nodes y"
+]
+}
