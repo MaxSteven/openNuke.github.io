@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-data_source: https://github.com/openNuke/toolset
+data_source: github.com/openNuke/toolset
 # Name of your site (displayed in the header)
 name: OpenNuke
 
