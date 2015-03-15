@@ -6,7 +6,8 @@ published: true
 <article class="post">
   <h1>{{ page.category }} > {{ page.tags }} > {{ page.title }}</h1>
 
-      Tool tip: {{ site.data.{{page.title}}.tooltip }}
+{% capture new_var %}{{ site.data. }}.{{page.title}}.{{.tooltip}}{% endcapture %}
+      Tool tip: {{ new_var }}
 
 
   <div class="entry">
