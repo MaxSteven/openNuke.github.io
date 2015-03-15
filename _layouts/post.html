@@ -5,9 +5,7 @@ published: true
 
 <article class="post">
   <h1>{{ page.category }} > {{ page.tags }} > {{ page.title }}</h1>
-###Intro
 
- <br>
 <h2>Intro</h2>
   <ul>
   <li>
@@ -16,32 +14,31 @@ published: true
 </li>
 </ul> 
 <h2>Details</h2>
- <br>
   <ul>
-  <li>originalAuthor:</li>
+  <li>originalAuthor:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].originalAuthor }}
-  <li>dateCreated:</li>
+{{ site.data.[somevar].originalAuthor }}</li>
+  <li>dateCreated:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].dateCreated }}
-  <li>status:</li>
+{{ site.data.[somevar].dateCreated }}</li>
+  <li>status:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].status }}
-  <li>source:</li>
+{{ site.data.[somevar].status }}</li>
+  <li>source:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].source }}
-  <li>Licence:</li>
+{{ site.data.[somevar].source }}</li>
+  <li>Licence:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].licence }}
-  <li>call:</li>
+{{ site.data.[somevar].licence }}</li>
+  <li>call:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].call }}
-  <li>type:</li>
+{{ site.data.[somevar].call }}</li>
+  <li>type:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].type }}
-  <li>category:</li>
+{{ site.data.[somevar].type }}</li>
+  <li>category:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].category }}
+{{ site.data.[somevar].category }}</li>
 </ul> 
 <h2Instructions</h2>
 
