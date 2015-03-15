@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BokehVignette_nk
+title: bokehVignette_nk
 published: true
 category: nodes
 tags: filter
