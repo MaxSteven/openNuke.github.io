@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AlignNodes.py
+title: AlignNodes
 published: true
 category: python
 tags: nodeGraph
