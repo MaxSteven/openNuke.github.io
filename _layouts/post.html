@@ -16,33 +16,24 @@ published: true
 <h2>Details</h2>
   <ul>
   <li>originalAuthor:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].originalAuthor }}</li>
   <li>dateCreated:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].dateCreated }}</li>
   <li>status:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].status }}</li>
   <li>source:
-  {% assign somevar = page.title %}
-  <a href="{{ site.data.[somevar].source }}">{{ site.data.[somevar].source }}</a>
+  <a href="{{ site.data.[somevar].source }}">{{ site.data.[somevar].originalVersion }} | {{ site.data.[somevar].source }}</a>
 </li>
   <li>Licence:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].licence }}</li>
   <li>call:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].call }}</li>
   <li>type:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].type }}</li>
   <li>category:
-  {% assign somevar = page.title %}
 {{ site.data.[somevar].category }}</li>
 </ul> 
 <h2Instructions</h2>
-
 
   <div class="entry">
     {{ content }}
