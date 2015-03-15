@@ -26,7 +26,8 @@ published: true
 {{ site.data.[somevar].status }}</li>
   <li>source:
   {% assign somevar = page.title %}
-{{ site.data.[somevar].source }}</li>
+  <a href="{{ site.data.[somevar].source }}">{{ site.data.[somevar].source }}</a>
+</li>
   <li>Licence:
   {% assign somevar = page.title %}
 {{ site.data.[somevar].licence }}</li>
