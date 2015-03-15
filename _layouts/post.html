@@ -8,11 +8,42 @@ published: true
 ###Intro
 
  <br>
-
+<h2>Intro</h2>
+  <ul>
+  <li>
 {% assign somevar = page.title %}
 {{ site.data.[somevar].tooltip }}
-
+</li>
+</ul> 
+<h2>Details</h2>
  <br>
+  <ul>
+  <li>originalAuthor:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].originalAuthor }}
+  <li>dateCreated:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].dateCreated }}
+  <li>status:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].status }}
+  <li>source:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].source }}
+  <li>Licence:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].licence }}
+  <li>call:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].call }}
+  <li>type:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].type }}
+  <li>category:</li>
+  {% assign somevar = page.title %}
+{{ site.data.[somevar].category }}
+</ul> 
+<h2Instructions</h2>
 
 
   <div class="entry">
