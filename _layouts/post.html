@@ -6,12 +6,9 @@ published: true
 <article class="post">
   <h1>{{ page.category }} > {{ page.tags }} > {{ page.title }}</h1>
 ###Intrp
-{% capture new_var %}site.data.{{page.title}}.tooltip{% endcapture %}
-{{ new_var }}
-new_var
+
 ###Intro
  site.data.alignNodes_py.tooltip
- {{ site.data.alignNodes_py.tooltip}}
  {{ ['site.data',page.title,'tooltip'] | join: '.' }}
  
  ====
