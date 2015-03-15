@@ -7,7 +7,8 @@ published: true
   <h1>{{ page.category }} > {{ page.tags }} > {{ page.title }}</h1>
 ###Intro
 {% capture new_var %}site.data.{{page.title}}.tooltip{% endcapture %}
-{new_var}}
+{{new_var}}
+{{site.data.{{page.title}}.tooltip}}
 
 
   <div class="entry">
