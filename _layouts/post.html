@@ -10,12 +10,22 @@ published: true
 ###Intro
 
  <br>
-{['site.data',page.title,'tooltip'] | join: '.' }
+{{['site.data',page.title,'tooltip'] | join: '.' }}
+
+{% capture productlink %}
+{{ 'site.data.' | append:page.title | append:'.tooltip' }}
+{% endcapture %} 
+{{productlink}}
+
+{% capture productlink %}
+{{['site.data',page.title,'tooltip'] | join: '.' }}
+{% endcapture %} 
+{{productlink}}
 
  <br><p></p>
  ====
- {{{ 'site.data.' | append:page.title | append:'.tooltip' }}}
- {{ 'site.data.' | append:'alignNodes_py.tooltip' }}
+ {{ 'site.data.' | append:page.title | append:'.tooltip' }}
+
  
 
  <br>
