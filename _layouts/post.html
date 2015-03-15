@@ -10,16 +10,12 @@ published: true
 ###Intro
 
  <br>
- {{{ ['site.data',page.title,'tooltip'] | join: '.' }}}
-{{ ['site.data',page.title,'tooltip'] | join: '.' }}
-{ ['site.data',page.title,'tooltip'] | join: '.' }
- ['site.data',page.title,'tooltip'] | join: '.' 
+{%['site.data',page.title,'tooltip'] | join: '.' %}
+
  <br><p></p>
  ====
- {{ 'site.data.' | append:page.title | append:'.tooltip' }}
-  {{{ 'site.data.' | append:page.title | append:'.tooltip' }}}
-   { 'site.data.' | append:page.title | append:'.tooltip' }
-     'site.data.' | append:page.title | append:'.tooltip' 
+ {% 'site.data.' | append:page.title | append:'.tooltip' %}
+
  <br>
 
 
