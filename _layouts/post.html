@@ -11,9 +11,12 @@ published: true
 
  <br>
 
-{% assign somevar = {{ page.title  }} %}
+{% assign somevar = page.title %}
 {{ site.data.[somevar].tooltip }}
 
+
+###Intro
+<br>
 
 {% capture productlink %}
 {{'site.data.' | append:page.title | append:'.tooltip' }}
