@@ -6,6 +6,15 @@ published: true
 <article class="post">
   <h1>{{ page.category }} > {{ page.tags }} > {{ page.title }}</h1>
 
+<ul>
+{% for toolData in site.data.alignNodes %}
+<ul>
+  <li>
+      Tool tip: {{ toolData.tooltip }}
+  </li>
+{% endfor %}
+</ul>
+
   <div class="entry">
     {{ content }}
   </div>
