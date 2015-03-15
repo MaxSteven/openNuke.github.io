@@ -7,6 +7,6 @@ tags: nodeGraph
 ---
 
 ### Instructions
-[http://www.nukepedia.com/python/nodegraph/alignnodes/|http://www.nukepedia.com/python/nodegraph/alignnodes/]
+[http://www.nukepedia.com/python/nodegraph/alignnodes/](http://www.nukepedia.com/python/nodegraph/alignnodes/)
 
 
