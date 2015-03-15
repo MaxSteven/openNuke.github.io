@@ -5,7 +5,8 @@ published: true
 
 <article class="post">
   <h1>{{ page.category }} > {{ page.tags }} > {{ page.title }}</h1>
-
+{{site.data.alignNodes.tooltip}}
+{{site.data.AlignNodes.tooltip}}
 {% capture new_var %}site.data.{{page.title}}.tooltip{% endcapture %}
       Tool tip: {{new_var}}
 
