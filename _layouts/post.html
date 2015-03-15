@@ -12,6 +12,7 @@ new_var
 ###Intro
  site.data.alignNodes_py.tooltip
  {{ site.data.alignNodes_py.tooltip}}
+ {{ ['site.data',page.title,'tooltip'] | join: '.' }}
  
  ====
  {{ 'site.data.' | append:page.title | append:'page.title'tooltip' }}
